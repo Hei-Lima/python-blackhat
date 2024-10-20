@@ -1,0 +1,1 @@
+Simple Python programs, implementations from the Black Hat Python, 2nd Edition book, and some of my own. All the code in this repository is licensed under the Unlicense. More information can be found in the LICENSE.md file.
